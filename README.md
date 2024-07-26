@@ -1,6 +1,6 @@
 # Spotify-TF
 
-![image](https://github.com/user-attachments/assets/15870f46-0a51-4299-a459-bf22ad233e3b)
+![image](https://github.com/user-attachments/assets/38146359-056c-4118-94cd-1548c6d48873)
 
 his project involves using Terraform to create multiple Spotify playlists for different occasions like morning, evening, party night, etc. Terraform will be used to automate the creation and management of these playlists.
 
